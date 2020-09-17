@@ -1,1 +1,1 @@
-# docker-2
+# Advanced Docker Course
